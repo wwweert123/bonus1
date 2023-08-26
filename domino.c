@@ -2,7 +2,7 @@
  * CS1010 Semester 1 AY23/24
  * Bonus question By Frederick
  *
- * @file: bmi.c
+ * @file: domino.c
  * @author: XXX (Group YYY)
  */
 
